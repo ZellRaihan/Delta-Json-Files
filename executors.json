@@ -1,0 +1,248 @@
+{
+  "delta": {
+    "name": "Delta Executor",
+    "description": "The most powerful free Roblox executor with unmatched performance and compatibility.",
+    "versions": {
+      "windows": {
+        "version": "v1.0.0",
+        "size": "24.5 MB",
+        "lastUpdated": "March 15, 2025",
+        "downloadUrl": "/downloads/Delta-Executor-Windows.zip",
+        "features": [
+          "Full Script Library",
+          "Advanced UI",
+          "Script Editor",
+          "Auto-Updates"
+        ],
+        "requirements": {
+          "os": "Windows 10 or later",
+          "ram": "4GB RAM minimum",
+          "storage": "100MB free space"
+        },
+        "installSteps": [
+          "Download the Delta-Executor-Windows.zip file",
+          "Disable your antivirus temporarily (false positive)",
+          "Extract the ZIP file to any folder",
+          "Run DeltaExecutor.exe as administrator",
+          "Launch Roblox and join a game",
+          "Click \"Inject\" in Delta Executor",
+          "Paste your script and click \"Execute\""
+        ],
+        "previousVersions": [
+          {
+            "version": "v0.9.5",
+            "releaseDate": "February 20, 2025",
+            "size": "23.8 MB",
+            "downloadUrl": "/downloads/Delta-Executor-Windows-v0.9.5.zip",
+            "changelog": [
+              "Improved script execution speed by 15%",
+              "Added support for more Roblox games",
+              "Fixed UI scaling issues on high DPI displays",
+              "Reduced memory usage during long gaming sessions"
+            ]
+          },
+          {
+            "version": "v0.9.0",
+            "releaseDate": "January 10, 2025",
+            "size": "22.3 MB",
+            "downloadUrl": "/downloads/Delta-Executor-Windows-v0.9.0.zip",
+            "changelog": [
+              "Initial beta release for Windows",
+              "Basic script execution functionality",
+              "Simple UI with dark theme",
+              "Support for most popular Roblox games"
+            ]
+          }
+        ]
+      },
+      "ios": {
+        "version": "v1.0.0",
+        "size": "18.2 MB",
+        "lastUpdated": "March 15, 2025",
+        "downloadUrl": "/downloads/Delta-Executor-iOS.ipa",
+        "features": [
+          "Touch Optimized",
+          "Script Library",
+          "Game Detection",
+          "Regular Updates"
+        ],
+        "requirements": {
+          "os": "iOS 14.0 or later",
+          "device": "iPhone 8 or newer",
+          "storage": "50MB free space"
+        },
+        "installSteps": [
+          "Download Delta-Executor-iOS.ipa",
+          "Use AltStore or Sideloadly to install",
+          "Connect iPhone to computer",
+          "Select the IPA file in your sideloading tool",
+          "Trust developer profile in Settings > General > Device Management",
+          "Open Delta Executor, then Roblox",
+          "Return to Delta and tap \"Inject\""
+        ],
+        "previousVersions": [
+          {
+            "version": "v0.9.2",
+            "releaseDate": "February 28, 2025",
+            "size": "17.5 MB",
+            "downloadUrl": "/downloads/Delta-Executor-iOS-v0.9.2.ipa",
+            "changelog": [
+              "Improved touch controls for script selection",
+              "Added support for iOS 14 devices",
+              "Fixed crash when injecting on certain games",
+              "Reduced battery consumption during execution"
+            ]
+          },
+          {
+            "version": "v0.8.5",
+            "releaseDate": "January 25, 2025",
+            "size": "16.8 MB",
+            "downloadUrl": "/downloads/Delta-Executor-iOS-v0.8.5.ipa",
+            "changelog": [
+              "Initial beta release for iOS",
+              "Basic script execution functionality",
+              "Touch-optimized interface",
+              "Limited game compatibility"
+            ]
+          }
+        ]
+      },
+      "android": {
+        "version": "v1.0.0",
+        "size": "21.7 MB",
+        "lastUpdated": "March 15, 2025",
+        "downloadUrl": "/downloads/Delta-Executor-Android.apk",
+        "features": [
+          "Touch Optimized",
+          "Script Library",
+          "Game Detection",
+          "Regular Updates"
+        ],
+        "requirements": {
+          "os": "Android 7.0 or later",
+          "ram": "3GB RAM minimum",
+          "storage": "75MB free space"
+        },
+        "installSteps": [
+          "Download Delta-Executor-Android.apk",
+          "Enable \"Install from Unknown Sources\" in settings",
+          "Open the APK file and tap \"Install\"",
+          "Launch Delta Executor and grant permissions",
+          "Open Roblox and join a game",
+          "Switch to Delta and tap \"Inject\"",
+          "Select your script and tap \"Execute\""
+        ],
+        "previousVersions": [
+          {
+            "version": "v0.9.8",
+            "releaseDate": "March 5, 2025",
+            "size": "21.2 MB",
+            "downloadUrl": "/downloads/Delta-Executor-Android-v0.9.8.apk",
+            "changelog": [
+              "Added support for Android 7.0 devices",
+              "Improved script execution reliability",
+              "Fixed UI issues on various screen sizes",
+              "Added auto-detection for popular games"
+            ]
+          },
+          {
+            "version": "v0.9.3",
+            "releaseDate": "February 10, 2025",
+            "size": "20.5 MB",
+            "downloadUrl": "/downloads/Delta-Executor-Android-v0.9.3.apk",
+            "changelog": [
+              "Initial beta release for Android",
+              "Basic script execution functionality",
+              "Touch-optimized interface",
+              "Support for high-end Android devices"
+            ]
+          }
+        ]
+      }
+    },
+    "competitors": [
+      {
+        "name": "Hydrogen",
+        "description": "Popular but lacks advanced features and regular updates.",
+        "icon": "fas fa-bolt"
+      },
+      {
+        "name": "Synapse X",
+        "description": "Paid executor with decent performance but higher detection rates.",
+        "icon": "fas fa-rocket"
+      },
+      {
+        "name": "KRNL",
+        "description": "Free alternative with limited script compatibility and slower execution.",
+        "icon": "fas fa-ghost"
+      },
+      {
+        "name": "JJSploit",
+        "description": "Basic functionality with frequent crashes and minimal support.",
+        "icon": "fas fa-fire"
+      }
+    ],
+    "advantages": [
+      {
+        "title": "Advanced Protection System",
+        "description": "Unlike Hydrogen and other executors, Delta uses proprietary anti-detection technology that keeps your account safe.",
+        "icon": "fas fa-shield-alt"
+      },
+      {
+        "title": "Superior Performance",
+        "description": "Delta executes scripts up to 5x faster than Synapse X and 10x faster than KRNL, with minimal impact on game FPS.",
+        "icon": "fas fa-tachometer-alt"
+      },
+      {
+        "title": "Universal Script Support",
+        "description": "While JJSploit and others fail with complex scripts, Delta supports virtually all Roblox scripts without modification.",
+        "icon": "fas fa-code"
+      },
+      {
+        "title": "Rapid Update Cycle",
+        "description": "Delta updates within hours of Roblox patches, while competitors like Hydrogen can take days or weeks.",
+        "icon": "fas fa-sync-alt"
+      }
+    ],
+    "stats": [
+      {
+        "number": "500K+",
+        "label": "Active Users"
+      },
+      {
+        "number": "99.8%",
+        "label": "Success Rate"
+      },
+      {
+        "number": "10,000+",
+        "label": "Compatible Scripts"
+      },
+      {
+        "number": "24/7",
+        "label": "Support Team"
+      }
+    ],
+    "compatibleGames": [
+      "Adopt Me",
+      "Blox Fruits",
+      "Brookhaven",
+      "Pet Simulator X",
+      "Jailbreak",
+      "Murder Mystery 2",
+      "Arsenal",
+      "Royale High"
+    ],
+    "testimonials": [
+      {
+        "quote": "Delta Executor is the only tool I trust for my Roblox scripts. It's lightning fast and never gets me banned!",
+        "name": "Alex M.",
+        "title": "Pro Gamer"
+      },
+      {
+        "quote": "I've tried many executors, but Delta is in a league of its own. The script library is amazing and everything just works!",
+        "name": "Sarah K.",
+        "title": "Roblox Developer"
+      }
+    ]
+  }
+} 
